@@ -43,11 +43,11 @@
 
             .content {
                 text-align: center;
-                color: rgb(255.0.0);
             }
 
             .title {
                 font-size: 84px;
+                color: green;
             }
 
             .links > a {
