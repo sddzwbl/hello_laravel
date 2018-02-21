@@ -43,6 +43,7 @@
 
             .content {
                 text-align: center;
+                color: rgb(255.0.0);
             }
 
             .title {
