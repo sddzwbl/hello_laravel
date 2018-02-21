@@ -46,7 +46,7 @@
             }
 
             .title {
-                font-size: 184px;
+                font-size: 84px;
                 color: red;
             }
 
