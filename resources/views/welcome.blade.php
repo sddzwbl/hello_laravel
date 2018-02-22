@@ -80,7 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <b>吴宝林的Laravel</b>
+                    <b>Laravel</b>
                 </div>
 
                 <div class="links">
